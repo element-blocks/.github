@@ -1,12 +1,13 @@
-## Hi there 👋
+# Element Blocks
+ノーコード開発フレームワーク
 
-<!--
+## ブロックを組み合わせて自由に開発しましょう
+Element Blocks（以下Blocks）はMVC構造を基本としたノーコードフレームワークです。  
+このフレームワークではModelをブロックとして扱い、様々なブロックを組み合わせて無限の創造性を提供することを目的としています。
 
-**Here are some ideas to get you started:**
+## コーディングは不要です
+現在のエンジニアの作業は膨大過ぎます。設計が終わった後にするコーディング作業、それはまるで木を切り、カンナで木材を削り出した後に接合部をミノで掘り出し、組み合わせた後にハンマーで釘を打っていくような作業です。このような、まるで石器時代のような時代に終わりを告げましょう。エンジニアの本来の作業は機能のブロックを組み合わせてシステムを創造する事であり、コーディング自体はエンジニアの仕事の本質とは異なる無駄な作業と言えるでしょう。Blocksはこの問題の解決に取り組みます。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 必要なブロックを提供します。
+DBブロックやAuthブロック、FXブロックなど無限の要件に対応できるよう数多くかつ最小限のブロックを提供していきます。  
+また、独自のブロック、プラグインを開発して組み込めるようブロック開発の仕組みも用意します。
